@@ -1,4 +1,4 @@
-# Rock Shield
+# Immovable Rock Shield
 
 **Wizard:** LazyFlamingo
 
