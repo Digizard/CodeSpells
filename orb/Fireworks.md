@@ -1,6 +1,7 @@
 # Fireworks
 
 **Wizard:** geniusidiot
+
 **Source:** https://the-codespells-forum.herokuapp.com/t/fireworks-contest-entry/152
 
 ![Screenshot](https://raw.githubusercontent.com/SittingFox/CodeSpells/master/orb/images/Fireworks01.png)
