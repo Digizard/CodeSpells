@@ -6,6 +6,20 @@
 
 ![Screenshot](https://raw.githubusercontent.com/SittingFox/CodeSpells/master/orb/images/CreeperFace01.png)
 
+## Orb Spell
+![Screenshot](https://raw.githubusercontent.com/SittingFox/CodeSpells/master/orb/images/CreeperFace03.png)
+
+### Compiled JS
+
+```Javascript
+function onCreate( orb ) {
+   orb.setVelocity( 5 );
+}
+
+function onHit( orb, other ) {
+   orb.destroySelf();
+}
+
 ## Creeper Face Spell
 ![Screenshot](https://raw.githubusercontent.com/SittingFox/CodeSpells/master/orb/images/CreeperFace02.png)
 
@@ -131,17 +145,3 @@ function onCreate( orb ) {
    ');
 }
 ```
-
-## Orb Spell
-![Screenshot](https://raw.githubusercontent.com/SittingFox/CodeSpells/master/orb/images/CreeperFace03.png)
-
-### Compiled JS
-
-```Javascript
-function onCreate( orb ) {
-   orb.setVelocity( 5 );
-}
-
-function onHit( orb, other ) {
-   orb.destroySelf();
-}
