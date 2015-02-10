@@ -1,7 +1,8 @@
 # Accelerating Orb
 
-By Umbris.
-Source: https://the-codespells-forum.herokuapp.com/t/accelerating-orb-aka-eval-works/125
+**Wizard:** Umbris
+
+**Source:** https://the-codespells-forum.herokuapp.com/t/accelerating-orb-aka-eval-works/125
 
 >> Cast this and the orb begins slowly, but picks up speed. This shows that you can use the eval block to write your own code, even to manipulate pre-built objects like "orb."
 
