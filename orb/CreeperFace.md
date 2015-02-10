@@ -19,6 +19,7 @@ function onCreate( orb ) {
 function onHit( orb, other ) {
    orb.destroySelf();
 }
+```
 
 ## Creeper Face Spell
 ![Screenshot](https://raw.githubusercontent.com/SittingFox/CodeSpells/master/orb/images/CreeperFace02.png)
