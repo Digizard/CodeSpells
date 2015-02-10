@@ -45,5 +45,16 @@ function onHit( orb, other ) {
 ### Compiled JS
 
 ```Javascript
+function onCreate( orb ) {
+   orb.setVelocity( 15 );
+}
 
+function onHit( orb, other ) {
+   if (other.rigidbody && !other.rigidbody.isKinematic) {
+      for (var count = 0; count < 4; count++) {
+         orb.turnLeft( 90 );
+         orb.createOrb('pinWithDelay', 40);
+      }
+   }
+}
 ```
