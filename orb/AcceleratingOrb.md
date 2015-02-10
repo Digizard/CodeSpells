@@ -8,13 +8,13 @@
 
 ![Screenshot](https://raw.githubusercontent.com/SittingFox/CodeSpells/master/orb/images/AcceleratingOrb.png)
 
-# Eval Code
+## Eval Code
 
 ```Javascript
 orb.setVelocity(speed);
 ```
 
-# Compiled JS
+## Compiled JS
 
 ```Javascript
 var speed;
